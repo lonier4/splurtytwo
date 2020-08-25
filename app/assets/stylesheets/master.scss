@@ -35,6 +35,7 @@
 }
 
 .links a {
+  font-family: 'Indie Flower', cursive;
   color: black;
   font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
@@ -46,4 +47,27 @@ header {
 
 hr {
   clear: both;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  font-weight: 500;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive; 
+}
+
+.next-quote {
+  color: #EA8919;
+  font-family: 'Satisfy', cursive;
+  font-size: 20px;
+}
+
+.footer-blurb {
+  font-family: 'Indie Flower', cursive;
+  font-style: italic;
+  text-align: right;
+  font-size: 18px;
 }
