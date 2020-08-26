@@ -75,3 +75,24 @@ h2 {
 .logo:hover {
   text-decoration: none;
 }
+
+.about {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans", "Arial Black", sans-serif;
+  font-size: 19px;
+  font-weight: 200px;
+}
+
+@media (max-width: 750px) {
+  .footer-blurb {
+  text-align: left;
+  }
+}
+
+h2 span {
+  color: #dddddd;
+  font-family: 'Satisfy', cursive;
+}
+
+::selection {
+  background-color: #EA8919;
+}
